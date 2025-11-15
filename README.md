@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-![Project Pipeline](https://github.com/najirh/Walmart_SQL_Python/blob/main/walmart_project-piplelines.png)
+![Project Pipeline](https://github.com/sshankt/walmart_sales_project/blob/main/ChatGPT%20Image%20Nov%2015%2C%202025%2C%2003_54_14%20PM.png)
 
 
 This project delivers a complete workflow for analyzing Walmart sales data. It covers everything from data retrieval to SQL-driven business insights. The pipeline uses Python for preprocessing, SQL for analytical queries, and a structured problem-solving approach to extract meaningful patterns..
